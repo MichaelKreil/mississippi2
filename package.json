@@ -38,7 +38,6 @@
     "through2-map": "^3.0.0",
     "through2-reduce": "^1.1.1",
     "through2-spy": "^2.0.0",
-    "to-readable-stream": "^4.0.0",
     "unique-hash-stream": "^1.0.0"
   },
   "repository": {
