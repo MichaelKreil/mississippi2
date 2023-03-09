@@ -25,7 +25,7 @@ module.exports.toPromise = require("stream-to-promise2")
 module.exports.toObservable = require("rx-node").fromStream
 
 module.exports.from = require('from2')
-module.exports.fromValue = require('stream-from-value')
+module.exports.fromValue = require('to-readable-stream')
 module.exports.fromPromise = require("stream-from-promise")
 module.exports.fromObservable = require("rx-node").writeToStream
 
